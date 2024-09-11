@@ -38,7 +38,7 @@ A simple shopping cart built with **React**, **Redux Toolkit**, and **Tailwind C
    npm start
    ```
 
-4. **Open the app**: Go to [http://localhost:3000](http://localhost:3000) in your browser.
+4. **Open the app**: Go to [http://localhost:3000](http://localhost:5173) in your browser.
 
 ## How It Works
 
